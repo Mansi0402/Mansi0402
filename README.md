@@ -6,7 +6,7 @@ Coffee☕ + Coding👩🏻‍💻
 - 🔭 I’m currently working on Machine Learning Projects
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Machine/Deep Learning Projects!
-- 🤔 I’m looking for help with FrontEnd Development :')
+- 🤔 I’m looking for help with Data Structures and Algorithms :')
 - 😄 Pronouns: she/her 🙋🏻‍♀️
 - ⚡ Fun fact: I'm a fantasy geek ✨ 
 
